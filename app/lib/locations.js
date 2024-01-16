@@ -1,4 +1,3 @@
-const baseUrl = 'https://angular.dev/assets/tutorials/common';
 
 
 const locations =
@@ -8,7 +7,7 @@ const locations =
             "name": "Acme Fresh Start Housing",
             "city": "Chicago",
             "state": "IL",
-            "photo": "${baseUrl}/bernard-hermant-CLKGGwIBTaY-unsplash.jpg",
+            "photo": "${https://angular.dev/assets/tutorials/common}/bernard-hermant-CLKGGwIBTaY-unsplash.jpg",
             "availableUnits": 4,
             "wifi": true,
             "laundry": true
@@ -18,7 +17,7 @@ const locations =
             "name": "A113 Transitional Housing",
             "city": "Santa Monica",
             "state": "CA",
-            "photo": "${baseUrl}/brandon-griggs-wR11KBaB86U-unsplash.jpg",
+            "photo": "${https://angular.dev/assets/tutorials/common}/brandon-griggs-wR11KBaB86U-unsplash.jpg",
             "availableUnits": 0,
             "wifi": false,
             "laundry": true
@@ -28,7 +27,7 @@ const locations =
             "name": "Warm Beds Housing Support",
             "city": "Juneau",
             "state": "AK",
-            "photo": "${baseUrl}/i-do-nothing-but-love-lAyXdl1-Wmc-unsplash.jpg",
+            "photo": "${https://angular.dev/assets/tutorials/common}/i-do-nothing-but-love-lAyXdl1-Wmc-unsplash.jpg",
             "availableUnits": 1,
             "wifi": false,
             "laundry": false
@@ -38,7 +37,7 @@ const locations =
             "name": "Homesteady Housing",
             "city": "Chicago",
             "state": "IL",
-            "photo": "${baseUrl}/ian-macdonald-W8z6aiwfi1E-unsplash.jpg",
+            "photo": "${https://angular.dev/assets/tutorials/common}/ian-macdonald-W8z6aiwfi1E-unsplash.jpg",
             "availableUnits": 1,
             "wifi": true,
             "laundry": false
@@ -48,7 +47,7 @@ const locations =
             "name": "Happy Homes Group",
             "city": "Gary",
             "state": "IN",
-            "photo": "${baseUrl}/krzysztof-hepner-978RAXoXnH4-unsplash.jpg",
+            "photo": "${https://angular.dev/assets/tutorials/common}/krzysztof-hepner-978RAXoXnH4-unsplash.jpg",
             "availableUnits": 1,
             "wifi": true,
             "laundry": false
@@ -58,7 +57,7 @@ const locations =
             "name": "Hopeful Apartment Group",
             "city": "Oakland",
             "state": "CA",
-            "photo": "${baseUrl}/r-architecture-JvQ0Q5IkeMM-unsplash.jpg",
+            "photo": "${https://angular.dev/assets/tutorials/common}/r-architecture-JvQ0Q5IkeMM-unsplash.jpg",
             "availableUnits": 2,
             "wifi": true,
             "laundry": true
@@ -68,7 +67,7 @@ const locations =
             "name": "Seriously Safe Towns",
             "city": "Oakland",
             "state": "CA",
-            "photo": "${baseUrl}/phil-hearing-IYfp2Ixe9nM-unsplash.jpg",
+            "photo": "${https://angular.dev/assets/tutorials/common}/phil-hearing-IYfp2Ixe9nM-unsplash.jpg",
             "availableUnits": 5,
             "wifi": true,
             "laundry": true
@@ -78,7 +77,7 @@ const locations =
             "name": "Hopeful Housing Solutions",
             "city": "Oakland",
             "state": "CA",
-            "photo": "${baseUrl}/r-architecture-GGupkreKwxA-unsplash.jpg",
+            "photo": "${https://angular.dev/assets/tutorials/common}/r-architecture-GGupkreKwxA-unsplash.jpg",
             "availableUnits": 2,
             "wifi": true,
             "laundry": true
@@ -88,7 +87,7 @@ const locations =
             "name": "Seriously Safe Towns",
             "city": "Oakland",
             "state": "CA",
-            "photo": "${baseUrl}/saru-robert-9rP3mxf8qWI-unsplash.jpg",
+            "photo": "${https://angular.dev/assets/tutorials/common}/saru-robert-9rP3mxf8qWI-unsplash.jpg",
             "availableUnits": 10,
             "wifi": false,
             "laundry": false
@@ -98,7 +97,7 @@ const locations =
             "name": "Capital Safe Towns",
             "city": "Portland",
             "state": "OR",
-            "photo": "${baseUrl}/webaliser-_TPTXZd9mOo-unsplash.jpg",
+            "photo": "${https://angular.dev/assets/tutorials/common}/webaliser-_TPTXZd9mOo-unsplash.jpg",
             "availableUnits": 6,
             "wifi": true,
             "laundry": true
