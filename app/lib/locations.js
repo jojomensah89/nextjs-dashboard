@@ -101,7 +101,115 @@ const locations =
             "availableUnits": 6,
             "wifi": true,
             "laundry": true
-        }
+        }, {
+    "id": 10,
+    "name": "Sunny Shelters",
+    "city": "Miami",
+    "state": "FL",
+    "photo": "https://angular.dev/assets/tutorials/common/sunny-shelters.jpg",
+    "availableUnits": 3,
+    "wifi": true,
+    "laundry": true
+  },
+  {
+    "id": 11,
+    "name": "Cozy Apartments",
+    "city": "New York",
+    "state": "NY",
+    "photo": "https://angular.dev/assets/tutorials/common/cozy-apartments.jpg",
+    "availableUnits": 8,
+    "wifi": true,
+    "laundry": false
+  },
+  {
+    "id": 12,
+    "name": "Mountain Retreat",
+    "city": "Asheville",
+    "state": "NC",
+    "photo": "https://angular.dev/assets/tutorials/common/mountain-retreat.jpg",
+    "availableUnits": 2,
+    "wifi": false,
+    "laundry": true
+  },{
+    "id": 13,
+    "name": "Harbor Views",
+    "city": "San Francisco",
+    "state": "CA",
+    "photo": "https://angular.dev/assets/tutorials/common/harbor-views.jpg",
+    "availableUnits": 5,
+    "wifi": true,
+    "laundry": true
+  },
+  {
+    "id": 14,
+    "name": "Urban Living",
+    "city": "Los Angeles",
+    "state": "CA",
+    "photo": "https://angular.dev/assets/tutorials/common/urban-living.jpg",
+    "availableUnits": 6,
+    "wifi": true,
+    "laundry": false
+  },
+  {
+    "id": 15,
+    "name": "Tranquil Homes",
+    "city": "Seattle",
+    "state": "WA",
+    "photo": "https://angular.dev/assets/tutorials/common/tranquil-homes.jpg",
+    "availableUnits": 4,
+    "wifi": false,
+    "laundry": true
+  },
+  {
+    "id": 16,
+    "name": "Golden Gate Residences",
+    "city": "San Francisco",
+    "state": "CA",
+    "photo": "https://angular.dev/assets/tutorials/common/golden-gate-residences.jpg",
+    "availableUnits": 9,
+    "wifi": true,
+    "laundry": true
+  },
+  {
+    "id": 17,
+    "name": "Countryside Villas",
+    "city": "Austin",
+    "state": "TX",
+    "photo": "https://angular.dev/assets/tutorials/common/countryside-villas.jpg",
+    "availableUnits": 3,
+    "wifi": false,
+    "laundry": false
+  },
+  {
+    "id": 18,
+    "name": "Tropical Paradise Homes",
+    "city": "Miami",
+    "state": "FL",
+    "photo": "https://angular.dev/assets/tutorials/common/tropical-paradise-homes.jpg",
+    "availableUnits": 7,
+    "wifi": true,
+    "laundry": true
+  },
+  {
+    "id": 19,
+    "name": "Cityscape Apartments",
+    "city": "New York",
+    "state": "NY",
+    "photo": "https://angular.dev/assets/tutorials/common/cityscape-apartments.jpg",
+    "availableUnits": 5,
+    "wifi": true,
+    "laundry": false
+  },
+  {
+    "id": 20,
+    "name": "Serene Retreat",
+    "city": "Denver",
+    "state": "CO",
+    "photo": "https://angular.dev/assets/tutorials/common/serene-retreat.jpg",
+    "availableUnits": 2,
+    "wifi": false,
+    "laundry": true
+  },
     ]
 
 module.exports = {
